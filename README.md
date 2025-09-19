@@ -14,6 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+<img width="857" height="420" alt="image" src="https://github.com/user-attachments/assets/176eb38e-143e-413b-8133-1edcfede1b6c" />
 
 ## Output:
 ## Result: 
